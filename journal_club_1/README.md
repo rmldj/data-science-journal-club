@@ -1,6 +1,10 @@
 # ML101: Some Python Data Science Resources and scikit-learn examples
 
-The two notebooks contain examples on recognizing handwritten digits using a small dataset from `scikit-learn` (`ML101.ipynb`) and a subset of MNIST (`ML101-MNIST.ipynb`). The notebooks can be run by executing
+The two notebooks contain examples on recognizing handwritten digits using a variety of classifiers. They use a small dataset of 8x8 images from `scikit-learn` (`ML101.ipynb`) and a subset of MNIST - larger 28x28 images (`ML101-MNIST.ipynb`).
+You can examine the notebooks just by clicking on them.
+
+If you want to run and/or modify them download them to your local computer.
+Then the notebooks can be run by executing
 
 ```
 jupyter notebook
