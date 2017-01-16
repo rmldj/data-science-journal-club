@@ -10,3 +10,5 @@ This repository contains pdf files, code and data from our data science/machine 
 3. [*Deep learning and TensorFlow*](https://github.com/rmldj/data-science-journal-club/raw/master/journal_club_3/DataScience_18Nov16.pdf) (Elżbieta Richter-Wąs)
 
 4. [*MapReduce - Hadoop*](https://github.com/rmldj/data-science-journal-club/raw/master/journal_club_4/hadoop.pdf) (Piotr Białas)
+
+5. [*TensorFlow*](https://github.com/rmldj/data-science-journal-club/raw/master/journal_club_5/TF-WFAIS.pdf) (Maciej Chociej, Google)
