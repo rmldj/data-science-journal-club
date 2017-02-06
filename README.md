@@ -14,3 +14,5 @@ This repository contains pdf files, code and data from our data science/machine 
 5. [*TensorFlow*](https://github.com/rmldj/data-science-journal-club/raw/master/journal_club_5/TF-WFAIS.pdf) (Maciej Chociej, Google)
 
 6. [*More on Convolutional Neural Networks*](https://github.com/rmldj/data-science-journal-club/raw/master/journal_club_6/cnn.pdf) (Romuald Janik)
+
+7. [*Generative Adversarial  Networks. Overview and applications*](https://github.com/rmldj/data-science-journal-club/raw/master/journal_club_7/gan_uj.pdf) (Rafał Cycoń, FORNAX)
