@@ -16,3 +16,6 @@ This repository contains pdf files, code and data from our data science/machine 
 6. [*More on Convolutional Neural Networks*](https://github.com/rmldj/data-science-journal-club/raw/master/journal_club_6/cnn.pdf) (Romuald Janik)
 
 7. [*Generative Adversarial  Networks. Overview and applications*](https://github.com/rmldj/data-science-journal-club/raw/master/journal_club_7/gan_uj.pdf) (Rafał Cycoń, FORNAX)
+
+8. [*The Unreasonable Effectiveness of RNN: an
+introduction to recurrent neural networks*](https://github.com/rmldj/data-science-journal-club/raw/master/journal_club_8/IntroToRNN.pdf) (Przemek Witaszczyk)
