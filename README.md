@@ -19,3 +19,5 @@ This repository contains pdf files, code and data from our data science/machine 
 
 8. [*The Unreasonable Effectiveness of RNN: an
 introduction to recurrent neural networks*](https://github.com/rmldj/data-science-journal-club/raw/master/journal_club_8/IntroToRNN.pdf) (Przemek Witaszczyk)
+
+9. [*​Introduction to ICA*](https://github.com/rmldj/data-science-journal-club/raw/master/journal_club_9/ica.pdf) (Jacek Tabor, II UJ)
