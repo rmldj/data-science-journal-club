@@ -21,3 +21,5 @@ This repository contains pdf files, code and data from our data science/machine 
 introduction to recurrent neural networks*](https://github.com/rmldj/data-science-journal-club/raw/master/journal_club_8/IntroToRNN.pdf) (Przemek Witaszczyk)
 
 9. [*​Introduction to ICA*](https://github.com/rmldj/data-science-journal-club/raw/master/journal_club_9/ica.pdf) (Jacek Tabor, II UJ)
+
+10. [*Data Science with Python*](https://github.com/rmldj/data-science-journal-club/tree/master/journal_club_10) (Piotr Białas)
