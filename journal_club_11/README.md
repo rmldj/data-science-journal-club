@@ -1,4 +1,4 @@
-# Data Science with Python
+# Introduction to Reinforcement Learning
 
 Slides from the journal club [*Introduction to Reinforcement Learning*](https://github.com/rmldj/data-science-journal-club/raw/master/journal_club_11/Intro_to_Reinforcement_Learning.pdf) by Rafał Józefowicz.
 
