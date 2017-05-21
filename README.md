@@ -25,3 +25,5 @@ introduction to recurrent neural networks*](https://github.com/rmldj/data-scienc
 10. [*Data Science with Python*](https://github.com/rmldj/data-science-journal-club/tree/master/journal_club_10) (Piotr Białas)
 
 11. [*Introduction to Reinforcement Learning*](https://github.com/rmldj/data-science-journal-club/tree/master/journal_club_11) (Rafał Józefowicz, OpenAI)
+
+12. [*Binary classifiers and receiver operating characteristic curves (ROC curve)*](https://github.com/rmldj/data-science-journal-club/tree/master/journal_club_12) (Piotr Białas)
