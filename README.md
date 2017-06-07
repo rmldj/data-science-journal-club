@@ -27,3 +27,7 @@ introduction to recurrent neural networks*](https://github.com/rmldj/data-scienc
 11. [*Introduction to Reinforcement Learning*](https://github.com/rmldj/data-science-journal-club/tree/master/journal_club_11) (Rafał Józefowicz, OpenAI)
 
 12. [*Binary classifiers and receiver operating characteristic curves (ROC curve)*](https://github.com/rmldj/data-science-journal-club/tree/master/journal_club_12) (Piotr Białas)
+
+13. [*A recipe for simple effective models*](https://github.com/rmldj/data-science-journal-club/raw/master/journal_club_13/UJ_talk_May_2017_v2.pdf) (Michael Abbott)
+
+14. [*​Criticality and Deep Learning*](https://github.com/rmldj/data-science-journal-club/raw/master/journal_club_14/CriticalNN.pdf) (Przemek Witaszczyk)
