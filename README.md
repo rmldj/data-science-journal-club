@@ -31,3 +31,9 @@ introduction to recurrent neural networks*](https://github.com/rmldj/data-scienc
 13. [*A recipe for simple effective models*](https://github.com/rmldj/data-science-journal-club/raw/master/journal_club_13/UJ_talk_May_2017_v2.pdf) (Michael Abbott)
 
 14. [*​Criticality and Deep Learning*](https://github.com/rmldj/data-science-journal-club/raw/master/journal_club_14/CriticalNN.pdf) (Przemek Witaszczyk)
+
+15. ["Fornax.ai and ESA "Data Adventures" hackaton and what we have learned"](https://github.com/dataadventures/mars_express_orbiter) (Piotr Warchoł, Przemek Witaszczyk)
+
+### 2017/2018
+
+16. [*Deep Neural Networks and the Information Bottleneck method*](https://github.com/rmldj/data-science-journal-club/raw/master/journal_club_16/DNNeoc.pdf) (Piotr Warchoł) [M.Kac Seminar]
