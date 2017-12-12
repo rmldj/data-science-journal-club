@@ -37,3 +37,5 @@ introduction to recurrent neural networks*](https://github.com/rmldj/data-scienc
 ### 2017/2018
 
 16. [*Deep Neural Networks and the Information Bottleneck method*](https://github.com/rmldj/data-science-journal-club/raw/master/journal_club_16/DNNeoc.pdf) (Piotr Warchoł) [M.Kac Seminar]
+
+17. [*Variational autoencoders*](https://github.com/rmldj/data-science-journal-club/tree/master/journal_club_17/vae.ipynb) (Igor Podolak, II UJ)
