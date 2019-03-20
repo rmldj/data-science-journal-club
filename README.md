@@ -48,8 +48,8 @@ introduction to recurrent neural networks*](https://github.com/rmldj/data-scienc
 
 ### 2018/2019
 
-21 *The input-output Jacobian and initialization of neural networks - our contribution for ResNets and some earlier results* (Piotr Warchoł)
+21. *The input-output Jacobian and initialization of neural networks - our contribution for ResNets and some earlier results* (Piotr Warchoł)
 
-22 *Deep processing of structured data* (Aleksandra Nowak and Łukasz Maziarka, II UJ)
+22. *Deep processing of structured data* (Aleksandra Nowak and Łukasz Maziarka, II UJ)
 
 23. [*Adversarial Examples*](https://github.com/rmldj/data-science-journal-club/tree/master/journal_club_23) (Piotr Białas)
