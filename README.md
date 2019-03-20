@@ -39,3 +39,17 @@ introduction to recurrent neural networks*](https://github.com/rmldj/data-scienc
 16. [*Deep Neural Networks and the Information Bottleneck method*](https://github.com/rmldj/data-science-journal-club/raw/master/journal_club_16/DNNeoc.pdf) (Piotr Warchoł) [M.Kac Seminar]
 
 17. [*Variational autoencoders*](https://github.com/rmldj/data-science-journal-club/tree/master/journal_club_17/vae.ipynb) (Igor Podolak, II UJ)
+
+18. *Mastering the game of Go without human knowledge* (Piotr Białas)
+
+19. *A multi-instance deep neural network classifier: application to Higgs boson CP measurement* (Piotr Białas)
+
+20. *Pushing state-of-the art in transcriptomics and metagenomics on the road to personalized medicine* (Paweł Łabaj, Bioinformatics Research Group)
+
+### 2018/2019
+
+21 *The input-output Jacobian and initialization of neural networks - our contribution for ResNets and some earlier results* (Piotr Warchoł)
+
+22 *Deep processing of structured data* (Aleksandra Nowak and Łukasz Maziarka, II UJ)
+
+23. [*Adversarial Examples*](https://github.com/rmldj/data-science-journal-club/tree/master/journal_club_23) (Piotr Białas)
