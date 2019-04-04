@@ -4,6 +4,8 @@ This repository contains pdf files, code and data from our data science/machine 
 
 ### Journal clubs
 
+### 2016/2017
+
 1. [*ML101: Some Python Data Science Resources and scikit-learn examples*](https://github.com/rmldj/data-science-journal-club/tree/master/journal_club_1) (Romuald Janik)
 2. [*Unsupervised learning - clustering*](https://github.com/rmldj/data-science-journal-club/raw/master/journal_club_2/ref-tabor.pdf) (Jacek Tabor, II UJ)
 
@@ -40,7 +42,7 @@ introduction to recurrent neural networks*](https://github.com/rmldj/data-scienc
 
 17. [*Variational autoencoders*](https://github.com/rmldj/data-science-journal-club/tree/master/journal_club_17/vae.ipynb) (Igor Podolak, II UJ)
 
-18. *Mastering the game of Go without human knowledge* (Piotr Białas)
+18. [*Mastering the game of Go without human knowledge*](https://github.com/rmldj/data-science-journal-club/raw/master/journal_club_18/alpha_zero.pdf) (Piotr Białas)
 
 19. *A multi-instance deep neural network classifier: application to Higgs boson CP measurement* (Piotr Białas)
 
@@ -50,6 +52,6 @@ introduction to recurrent neural networks*](https://github.com/rmldj/data-scienc
 
 21. [*The input-output Jacobian and initialization of neural networks - our contribution for ResNets and some earlier results*](https://github.com/rmldj/data-science-journal-club/raw/master/journal_club_21/Data_Science_Journal_Club_RMTandNN.pdf) (Piotr Warchoł)
 
-22. *Deep processing of structured data* (Aleksandra Nowak and Łukasz Maziarka, II UJ)
+22. [*Deep processing of structured data*](https://github.com/rmldj/data-science-journal-club/raw/master/journal_club_22/Set_F.pdf) (Aleksandra Nowak and Łukasz Maziarka, II UJ)
 
 23. [*Adversarial Examples*](https://github.com/rmldj/data-science-journal-club/tree/master/journal_club_23) (Piotr Białas)
