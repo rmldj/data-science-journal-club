@@ -46,7 +46,7 @@ introduction to recurrent neural networks*](https://github.com/rmldj/data-scienc
 
 19. *A multi-instance deep neural network classifier: application to Higgs boson CP measurement* (Piotr Białas)
 
-20. *Pushing state-of-the art in transcriptomics and metagenomics on the road to personalized medicine* (Paweł Łabaj, Bioinformatics Research Group)
+20. [*Pushing state-of-the art in transcriptomics and metagenomics on the road to personalized medicine*](https://github.com/rmldj/data-science-journal-club/raw/master/journal_club_20/Labaj_Ardigen_19062018.pdf) (Paweł Łabaj, Bioinformatics Research Group)
 
 ### 2018/2019
 
@@ -55,3 +55,8 @@ introduction to recurrent neural networks*](https://github.com/rmldj/data-scienc
 22. [*Deep processing of structured data*](https://github.com/rmldj/data-science-journal-club/raw/master/journal_club_22/Set_F.pdf) (Aleksandra Nowak and Łukasz Maziarka, II UJ)
 
 23. [*Adversarial Examples*](https://github.com/rmldj/data-science-journal-club/tree/master/journal_club_23) (Piotr Białas)
+
+24. [*Improving convergence of stochastic gradient descent*](https://github.com/rmldj/data-science-journal-club/raw/master/journal_club_24/SGD.pdf) (Jarek Duda, II UJ)
+
+
+25. [*Contrastive model explanations, an overview*](https://github.com/rmldj/data-science-journal-club/raw/master/journal_club_25/contrastive_explanations.pdf) (Wojciech Sobala, IBM)
